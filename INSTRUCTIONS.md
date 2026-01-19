@@ -6,24 +6,15 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
+## 📌 Ariketa 
 
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
-| Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| RS | 4044            | ? | ? |  
 
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
 
----
 
 ## Tabla de la verdad
 
