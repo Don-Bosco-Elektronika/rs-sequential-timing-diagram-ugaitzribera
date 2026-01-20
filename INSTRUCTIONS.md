@@ -35,13 +35,14 @@
 ---
 
 ## 🔲  Kronogramaren Emaitza 
-Circuito A
+RS Asincrono
 
-*(Añade aquí la captura del WaveDrom)*
+<img width="942" height="742" alt="RS asincrono ariketa" src="https://github.com/user-attachments/assets/9612310e-848b-4113-bd28-f2a1b902cb2e" />
 
-Circuito B
+RS Flanco ascendente
 
-*(Añade aquí la captura del WaveDrom)*
+<img width="960" height="758" alt="RS flanco ascendente ariketa" src="https://github.com/user-attachments/assets/de236d27-afb0-4508-8187-a0c44de2175d" />
+
 
 ... AÑADE LO MÁS CIRCUITOS
 
@@ -49,13 +50,41 @@ Circuito B
 
 
 ## 🔲  Kronogramaren Kodea
-Circuito A
+RS Asincrono
 
-*(Añade aquí el código del WaveDrom)*
+{signal: [
 
-Circuito B
+  {name: 'Set',   wave: 'lhlh..l..h.l.hlh.'},
+  
+  {name: 'Reset', wave: 'h..l.h.lhlh..l..h'},
+  
+  {},
+  
+  {name: 'Q',     wave: '0x.1.x0..1x0.1..x'},
+  
+  {name: '-Q',    wave: '1x.0.x1..0x1.0..x'}
+  
+]}
 
-*(Añade aquí el código del WaveDrom)*
+
+RS Flanco ascendente
+
+{signal: [ 
+
+{name: 'clk', wave: 'P................'},
+
+ {name: 'Set', wave: '0101.0...1.0..1.0'},
+ 
+ {name: 'Reset', wave: '1.0....1010..1..0'},
+ 
+ {},
+ 
+ {name: 'Q', wave: '0x.1...0.x1..0x..'},
+ 
+ {name: '-Q', wave: '1x.0...1.x0..1x..'}
+ 
+]}
+
 
 ... AÑADE LO MÁS CIRCUITOS
 
