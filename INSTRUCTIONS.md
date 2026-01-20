@@ -43,8 +43,19 @@ RS Flanco ascendente
 
 <img width="960" height="758" alt="RS flanco ascendente ariketa" src="https://github.com/user-attachments/assets/de236d27-afb0-4508-8187-a0c44de2175d" />
 
+RS Flanco descendente
 
-... AÑADE LO MÁS CIRCUITOS
+<img width="971" height="686" alt="RS flanco descendente ariketa" src="https://github.com/user-attachments/assets/47c72376-b08b-4770-b486-b2470dae5cc1" />
+
+RS Nivel alto
+
+<img width="962" height="772" alt="RS nivel alto ariketa" src="https://github.com/user-attachments/assets/f5a610ac-ba45-4f93-8ef6-ad8f3ce5e4c2" />
+
+RS Nivel bajo
+
+<img width="937" height="775" alt="RS nivel bajo ariketa" src="https://github.com/user-attachments/assets/aa4e67aa-3a2d-4b2e-a1d6-a7be4b0e0ae9" />
+
+
 
 ---
 
