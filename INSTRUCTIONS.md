@@ -97,7 +97,59 @@ RS Flanco ascendente
 ]}
 
 
-... AÑADE LO MÁS CIRCUITOS
+RS Flanco descendente
+
+{signal: [ 
+
+{name: 'clk', wave: 'N................'}, 
+
+{name: 'Set', wave: '01.00110.1.1101.0'}, 
+
+{name: 'Reset', wave: '1..010.1010.1..01'}, 
+
+{},
+
+ {name: 'Q', wave: '0xx.01.0.x1.x0x10'},
+ 
+ {name: '-Q', wave: '1xx.10.1.x0.x1x01'}
+ 
+ ]}
+
+ RS Nivel alto
+
+ {signal: [
+ 
+  {name: 'clk',   period: 2, wave: 'p................'},
+  
+  {name: 'Set',   wave: '010.....1..0..1.0'},
+  
+  {name: 'Reset', wave: '1.0101010101...01'},
+  
+  {},
+  
+  {name: 'Q',     wave: '0x..0...x1..0....'},
+  
+  {name: '-Q',    wave: '1x..1...x0..1....'}
+  
+]}
+
+RS Nivel bajo
+
+{signal: [
+
+  {name: 'clk',   period: 2, wave: 'n........'},
+  
+  {name: 'Set',   wave: '0..1010.1..01010.'},
+  
+  {name: 'Reset', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q',     wave: '0...1..x1..x0....'},
+  
+  {name: '-Q',    wave: '1...0..x0..x1....'}
+  
+]}
 
 ---
 
