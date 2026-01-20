@@ -29,7 +29,8 @@
 
 ## 🔲  Simulatzeko Zirkuituak 
 
-*(4044 RS ariketa proteus Ugaitz.png)*
+<img width="1021" height="556" alt="4044 RS ariketa proteus Ugaitz" src="https://github.com/user-attachments/assets/635c2bfa-03ab-4053-b923-1f6f4fea0fd1" />
+
 
 ---
 
