@@ -29,7 +29,7 @@
 
 ## 🔲  Simulatzeko Zirkuituak 
 
-*(Añade aquí la captura de proteus)*
+*(4044 RS ariketa proteus Ugaitz.png)*
 
 ---
 
